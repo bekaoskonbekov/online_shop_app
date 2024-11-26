@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76119278853",
+    "project_id": "nakta-a6efb",
+    "storage_bucket": "nakta-a6efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76119278853:android:0362fb55e0abee7166236c",
+        "android_client_info": {
+          "package_name": "com.example.my_example_file"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQz3eRxmIWraJ9347hNPD8iEm3U8eKj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
